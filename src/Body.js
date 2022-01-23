@@ -25,11 +25,14 @@ export default function Body(props) {
          setOnOff1(OnOff1 === "OFF" ? "ON" : "OFF");
       }
 
-  return <div class="grid-container">
+  return <><div className='header'><h1>LIGHT APP</h1></div>
+  <div class="grid-container">
   <div class="grid-item"><div className={style}></div></div>
   <div class="grid-item"><div className={style1}></div></div>
   <div class="grid-item"><button className='button' onClick={changeStyle}>{OnOff}</button></div>
   <div class="grid-item"><button className='button' onClick={changeStyle1}>{OnOff1}</button></div>
   
+
 </div>
+</>
 }
