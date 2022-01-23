@@ -7,7 +7,7 @@
 	.st1{fill:#FD9808;stroke:#DCE11F;stroke-width:3;stroke-miterlimit:10;}
 	.st2{fill:#FFFFFF;stroke:#DCE11F;stroke-width:3;stroke-miterlimit:10;}
 	.st3{fill:#FCC309;stroke:#DCE11F;stroke-width:3;stroke-miterlimit:10;}
-	.st4{stroke:#DCE11F;stroke-width:3;stroke-miterlimit:10;}
+	.st4{stroke:#DCE11F;stroke-width:6;stroke-miterlimit:10;}
 </style>
 <g transform="translate(0 1)">
 	<path class="st0" d="M416.4,155.2c-8.5-76.8-70-138.2-146.8-146.8c-4.3,0-9.4-0.9-14.5-0.9c-5.1,0-9.4,0-14.5,0.9
