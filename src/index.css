@@ -1,17 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 body {
-  margin-left:35%;
-margin-right:10%;
+  /* margin-left:35%; */
+/* margin-right:10%; */
 /* margin-bottom:110%; */
 align-items: center;
-margin-top:10%;
+margin-top:5%;
 font-family: 'Audiowide', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(14, 12, 12); */
+  /* background-image: url('../public/'); */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.content{
+  width: fit-content;
+  
+  margin: auto;
 }
